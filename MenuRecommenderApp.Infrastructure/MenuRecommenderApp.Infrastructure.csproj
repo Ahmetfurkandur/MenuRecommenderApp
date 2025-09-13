@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MenuRecommenderApp.Application\MenuRecommenderApp.Application.csproj" />
+  </ItemGroup>
+
 </Project>
